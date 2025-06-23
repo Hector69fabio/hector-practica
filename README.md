@@ -1,4 +1,4 @@
-# hector-practica
+# hector-práctica
 Primer repo creado github
 
 ## descripción
